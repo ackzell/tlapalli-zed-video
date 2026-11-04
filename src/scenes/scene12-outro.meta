@@ -1,0 +1,42 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "tlapalli",
+      "targetTime": 0.6
+    },
+    {
+      "name": "for",
+      "targetTime": 0.95
+    },
+    {
+      "name": "zed",
+      "targetTime": 1.2
+    },
+    {
+      "name": "extension-store",
+      "targetTime": 2
+    },
+    {
+      "name": "marketplace",
+      "targetTime": 4.328648854075435
+    },
+    {
+      "name": "registry",
+      "targetTime": 7.194044323200165
+    },
+    {
+      "name": "show-url",
+      "targetTime": 10.63141136652556
+    },
+    {
+      "name": "urlDuration",
+      "targetTime": 12.357336911851716
+    },
+    {
+      "name": "fade",
+      "targetTime": 12.716232576923293
+    }
+  ],
+  "seed": 351456647
+}

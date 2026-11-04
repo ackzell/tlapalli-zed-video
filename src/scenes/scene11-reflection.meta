@@ -1,0 +1,22 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "show-bubble",
+      "targetTime": 0.6
+    },
+    {
+      "name": "hide-bubble",
+      "targetTime": 5.280325553248687
+    },
+    {
+      "name": "label",
+      "targetTime": 12.743837739041938
+    },
+    {
+      "name": "next-scene",
+      "targetTime": 23.717963702406628
+    }
+  ],
+  "seed": 2943062527
+}

@@ -1,0 +1,34 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "uncertainty",
+      "targetTime": 2.489814087454951
+    },
+    {
+      "name": "uncertainty-out",
+      "targetTime": 5.9091722271818234
+    },
+    {
+      "name": "show-screenshot",
+      "targetTime": 6.956330266385768
+    },
+    {
+      "name": "inspect",
+      "targetTime": 7.456330266385768
+    },
+    {
+      "name": "fade-screenshot",
+      "targetTime": 12.039497343040399
+    },
+    {
+      "name": "ready-enough",
+      "targetTime": 24.88289632910472
+    },
+    {
+      "name": "next-scene",
+      "targetTime": 26.10543983922576
+    }
+  ],
+  "seed": 1188613192
+}

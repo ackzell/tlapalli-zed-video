@@ -1,0 +1,110 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "keys",
+      "targetTime": 1.0021887318138352
+    },
+    {
+      "name": "keys-out",
+      "targetTime": 2.295712836205994
+    },
+    {
+      "name": "vscode",
+      "targetTime": 2.8718521037256064
+    },
+    {
+      "name": "fade-vscode",
+      "targetTime": 5.087339434707915
+    },
+    {
+      "name": "sidebar.background",
+      "targetTime": 6.091985280948991
+    },
+    {
+      "name": "sidebar.backgroundDuration",
+      "targetTime": 7.5149786868335955
+    },
+    {
+      "name": "editorWidget.background",
+      "targetTime": 8.160580034339823
+    },
+    {
+      "name": "editorWidget.backgroundDuration",
+      "targetTime": 10.257727814925177
+    },
+    {
+      "name": "tab.activeBackground",
+      "targetTime": 10.367826366861719
+    },
+    {
+      "name": "tab.activeBackgroundDuration",
+      "targetTime": 12.534544962546878
+    },
+    {
+      "name": "zed",
+      "targetTime": 15.196122279028414
+    },
+    {
+      "name": "fade-zed",
+      "targetTime": 17.470507156682768
+    },
+    {
+      "name": "panel.background",
+      "targetTime": 17.970507156682768
+    },
+    {
+      "name": "panel.backgroundDuration",
+      "targetTime": 19.099312054912293
+    },
+    {
+      "name": "elevated_surface.background",
+      "targetTime": 19.630682819171373
+    },
+    {
+      "name": "elevated_surface.backgroundDuration",
+      "targetTime": 22.10358478498586
+    },
+    {
+      "name": "tab.active_background",
+      "targetTime": 22.532626894777323
+    },
+    {
+      "name": "tab.active_backgroundDuration",
+      "targetTime": 24.831995232673307
+    },
+    {
+      "name": "show-blocks",
+      "targetTime": 27.201050048639473
+    },
+    {
+      "name": "arrow",
+      "targetTime": 33.535642620218375
+    },
+    {
+      "name": "arrow-leave",
+      "targetTime": 35.81530195264229
+    },
+    {
+      "name": "pair-1",
+      "targetTime": 40.11513912473077
+    },
+    {
+      "name": "pair-2",
+      "targetTime": 41.08919106740156
+    },
+    {
+      "name": "pair-3",
+      "targetTime": 42.10740085181625
+    },
+    {
+      "name": "pair-4",
+      "targetTime": 43.34639984495049
+    },
+    {
+      "name": "next-scene",
+      "targetTime": 45.740905416205194
+    }
+  ],
+  "seed": 3737568805
+}

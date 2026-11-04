@@ -1,0 +1,26 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "show-swatches",
+      "targetTime": 0.8858136836667403
+    },
+    {
+      "name": "show-thumbnails",
+      "targetTime": 3.0535687880120195
+    },
+    {
+      "name": "light-mode",
+      "targetTime": 5.163290329168811
+    },
+    {
+      "name": "dark-mode",
+      "targetTime": 8.367399751237654
+    },
+    {
+      "name": "next-scene",
+      "targetTime": 11.476134281622773
+    }
+  ],
+  "seed": 487625064
+}

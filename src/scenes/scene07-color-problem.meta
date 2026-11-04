@@ -1,0 +1,30 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "show-indicators",
+      "targetTime": 16.1981753070163
+    },
+    {
+      "name": "show-swatches",
+      "targetTime": 23.185692384159733
+    },
+    {
+      "name": "connect-lines",
+      "targetTime": 30.847401989560876
+    },
+    {
+      "name": "simplify",
+      "targetTime": 39.994902564863935
+    },
+    {
+      "name": "one-color",
+      "targetTime": 50.583430507097155
+    },
+    {
+      "name": "next-scene",
+      "targetTime": 57.20506848961566
+    }
+  ],
+  "seed": 100138341
+}

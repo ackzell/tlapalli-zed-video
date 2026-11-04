@@ -1,0 +1,14 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "comment-text-start",
+      "targetTime": 0.6
+    },
+    {
+      "name": "new-scene",
+      "targetTime": 9.365201599480352
+    }
+  ],
+  "seed": 3824158121
+}

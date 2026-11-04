@@ -1,0 +1,26 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "show-editors",
+      "targetTime": 0.9971183449937967
+    },
+    {
+      "name": "labels",
+      "targetTime": 2.163561358098977
+    },
+    {
+      "name": "speed-bars",
+      "targetTime": 2.969772757335785
+    },
+    {
+      "name": "zed-duration",
+      "targetTime": 23.645336244714443
+    },
+    {
+      "name": "next-scene",
+      "targetTime": 24.145336244714443
+    }
+  ],
+  "seed": 3280471537
+}

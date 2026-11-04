@@ -1,0 +1,54 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "pipeline",
+      "targetTime": 0.6
+    },
+    {
+      "name": "pipeline-out",
+      "targetTime": 2.838392732865458
+    },
+    {
+      "name": "cmd-1",
+      "targetTime": 4.269297518995605
+    },
+    {
+      "name": "cmd-2",
+      "targetTime": 8.911176122417547
+    },
+    {
+      "name": "zed-preview",
+      "targetTime": 10.049295669908027
+    },
+    {
+      "name": "cmd-3",
+      "targetTime": 12.389173516191676
+    },
+    {
+      "name": "local-install",
+      "targetTime": 16.35418559684976
+    },
+    {
+      "name": "drop-file",
+      "targetTime": 18.75904170775227
+    },
+    {
+      "name": "terminal-cmd",
+      "targetTime": 18.75904170775227
+    },
+    {
+      "name": "terminal-typing",
+      "targetTime": 20.642904375883127
+    },
+    {
+      "name": "terminal-output",
+      "targetTime": 21.305227893351706
+    },
+    {
+      "name": "next-scene",
+      "targetTime": 27.700474478852414
+    }
+  ],
+  "seed": 3197760518
+}
